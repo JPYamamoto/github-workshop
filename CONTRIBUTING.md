@@ -1,6 +1,6 @@
 # Contributing
 
-First of all, _thank you_ for taking the time to consider contributing to this workshop!  I'm not expecting anything big, if all you do is review code in a pull request, leave feedback in #3, or open an issue, you are a hero by me, especially if you had an issue particular to your browser or operating system.
+First of all, _thank you_ for taking the time to consider contributing to this workshop!  I'm not expecting anything big, if all you do is review code in a pull request, leave feedback in #1, or open an issue, you are a hero by me, especially if you had an issue particular to your browser or operating system.
 
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
