@@ -1,4 +1,4 @@
-`git branch [name]` makes branch `[name]`
+`git branch [name]` crea una rama llamada `[name]`
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

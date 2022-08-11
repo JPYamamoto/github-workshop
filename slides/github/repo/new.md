@@ -1,3 +1,3 @@
-Make a new repository online<br/>[GitHub.com/**new**][new]
+Crea un nuevo repositorio en línea<br/>[github.com/**new**][new]
 
 [new]: https://github.com/new

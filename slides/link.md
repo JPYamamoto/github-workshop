@@ -1,3 +1,3 @@
-Get the slides at
+Código fuente en
 
-[git.glfmn.io/github-workshop](https://git.glfmn.io/github-workshop)
+[https://github.com/JPYamamoto/github-workshop](https://github.com/JPYamamoto/github-workshop)

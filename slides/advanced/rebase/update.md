@@ -1,4 +1,4 @@
-Update base branch without **new** commits!
+Actualiza la rama base **sin crear nuevos** commits!
 
 Note:
 If you want to incorporate new changes from the base branch

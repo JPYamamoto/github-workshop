@@ -1,4 +1,4 @@
-`git init` makes a new repository
+`git init` crea un nuevo repositorio
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

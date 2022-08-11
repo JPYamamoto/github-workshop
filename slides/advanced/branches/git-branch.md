@@ -1,4 +1,4 @@
-`git branch` lists branches
+`git branch` muestra un listado de ramas
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

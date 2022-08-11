@@ -1,4 +1,4 @@
-`git rebase --abort` stop a rebase in progress
+`git rebase --abort` detiene un _rebase_ en progreso
 
 Note:
 Return to a clean state as if you never tried to rebase

@@ -1,1 +1,1 @@
-`git` is only as good as your **history**
+`git` es tan bueno como tu habilidad al usar el **historial**

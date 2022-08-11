@@ -1,4 +1,4 @@
-`[ref]` can be:
+`[ref]` puede ser:
 
-- branch name
-- commit `[id]`
+- el nombre de una rama
+- el `[id]` de un commit

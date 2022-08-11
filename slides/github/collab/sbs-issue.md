@@ -1,12 +1,12 @@
-**Step-by-step**
+**Paso por paso**
 
-1. [GitHub.com/**glfmn/github-workshop**]
-1. Click issues
-1. Look for feedback issue ([#3])
-1. Leave some constructive feedback!
+1. [github.com/**JPYamamoto/github-workshop**]
+2. Clic en _issues_
+3. Busca el _issue_ **feedback** ([#1])
+4. Deja algún comentario!
 
-[GitHub.com/**glfmn/github-workshop**]: https://github.com/glfmn/github-workshop
-[#3]: https://github.com/glfmn/github-workshop/issues/3
+[gitHub.com/**JPYamamoto/github-workshop**]: https://github.com/JPYamamoto/github-workshop
+[#3]: https://github.com/JPYamamoto/github-workshop/issues/1
 
 Note:
 - it's issue #3 if you have trouble finding it

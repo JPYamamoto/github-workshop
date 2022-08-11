@@ -1,4 +1,4 @@
-`git push` now remembers where to push
+`git push` ahora recuerda a dónde mandar los cambios
 
 Note:
 - only use when ready

@@ -1,4 +1,4 @@
-`git clone` makes a **new** folder in your current folder
+`git clone` crea un **nuevo** directorio en tu directorio actual
 
 Note:
 - This behaviour is different than `git init`

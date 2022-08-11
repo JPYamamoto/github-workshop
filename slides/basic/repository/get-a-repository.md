@@ -1,4 +1,4 @@
-Two ways to get a repository
+Dos maneras de tener un repositorio
 
-- make a new one
-- copy an old one
+- crear uno nuevo
+- copiar uno viejo

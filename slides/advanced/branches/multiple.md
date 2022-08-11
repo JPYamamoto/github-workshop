@@ -1,1 +1,1 @@
-In practice, we work on multiple things at once
+En la práctica, solemos trabajar en múltiples cosas al mismo tiempo

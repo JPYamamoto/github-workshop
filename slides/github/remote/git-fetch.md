@@ -1,1 +1,1 @@
-`git fetch` syncs information about your remotes
+`git fetch` sincroniza la información desde un repositorio remoto

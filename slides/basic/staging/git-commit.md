@@ -1,4 +1,4 @@
-`git commit` puts a change in the history
+`git commit` pone un cambio en el historial
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

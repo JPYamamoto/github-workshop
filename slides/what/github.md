@@ -1,1 +1,1 @@
-## What is GitHub?
+## ¿Qué es GitHub?

@@ -1,5 +1,5 @@
-The log prints to terminal the:
+El log muestra en la terminal:
 
-- unique commit id
-- metadata such as author
-- commit message
+- el id único del commit
+- metadatos como el autor
+- el mensaje del commit

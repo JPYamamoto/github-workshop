@@ -1,4 +1,4 @@
-fix the conflict in text editor,<br/>`git add` the **fixed** file
+resuelve el conflicto en el editor de texto,<br/>haz `git add` al archivo **arreglado**
 
 ```md
 # README: This is a practice `git` repository

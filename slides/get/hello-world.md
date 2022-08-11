@@ -1,4 +1,4 @@
-Type `git` into the terminal
+Escribe `git` en la terminal
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>
@@ -6,6 +6,6 @@ Type `git` into the terminal
 </figure>
 
 Note:
-- lets make sure you have git installed properly
-- type it and something should happen that **isn't**
+- vamos a asegurar que tienes git instalado correctamente
+- escríbelo y algo debería suceder, que es **distinto** de
   > "program git not found"

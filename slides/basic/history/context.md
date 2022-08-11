@@ -1,4 +1,4 @@
-Describe not just what, but **why**
+Describe no sólo el "qué", sino el **"por qué"**
 
 Note:
 - good when it's 3 months later

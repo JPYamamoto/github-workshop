@@ -1,4 +1,4 @@
-pull requests organize **merging**
+Los _pull requests_ sirven para organizar los **merge**
 
 Note:
 - merge changes while discussing and reviewing them

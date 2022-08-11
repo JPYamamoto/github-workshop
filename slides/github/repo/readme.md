@@ -1,1 +1,1 @@
-**GitHub** renders your README to provide<br/>a long-form description of your repo
+**GitHub** despliega tu README para mostrar<br/>una descripción amplia de tu repositorio

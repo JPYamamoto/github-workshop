@@ -1,1 +1,1 @@
-`git log --oneline` one line per commit
+`git log --oneline` una línea por commit

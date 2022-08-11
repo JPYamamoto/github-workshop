@@ -1,4 +1,4 @@
-In `git`, history isn't a straight line,<br/>but a **branching** story
+En `git`, el historial no es una línea recta,<br/>sino una historia de **ramificaciones**
 
 Note:
 Split off branches because:

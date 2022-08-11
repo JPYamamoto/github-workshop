@@ -1,4 +1,4 @@
-- host your code online
-- extra collaboration tools
-- large community of developers
-- community platform
+- aloja tu código en línea
+- herramientas para la colaboración adicionales
+- amplia comunidad de desarrolladores
+- plataforma comunitaria

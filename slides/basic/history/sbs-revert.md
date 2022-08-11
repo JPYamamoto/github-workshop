@@ -1,7 +1,7 @@
-**Step-by-step**
+**Paso por paso**
 
-- make a commit
-- `git log -1` - show last commit
-- copy the commit id
-- `git revert [id]` - revert
-- `git log --patch -2` - inspect
+- crea un commit
+- `git log -1` - muestra el último commit
+- copia el id del commit
+- `git revert [id]` - revierte cambios
+- `git log --patch -2` - inspecciona

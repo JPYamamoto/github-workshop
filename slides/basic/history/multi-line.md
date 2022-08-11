@@ -1,7 +1,7 @@
-One line usually isn't enough
+Una línea no suele ser suficiente
 
-- Short summary line
-- Detailed body
+- Corto resumen de 1 línea
+- Cuerpo con detalles
 
 Note:
 - A short summary in present-tense-imperative-mood, about 50 characters

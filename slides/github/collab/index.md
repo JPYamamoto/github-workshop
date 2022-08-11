@@ -1,1 +1,1 @@
-## Collaboration
+## Colaboración

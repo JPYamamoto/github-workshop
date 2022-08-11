@@ -1,3 +1,3 @@
-**Staging** combines related changes
+**Staging** agrega los cambios relacionados
 
-**Commits** document these changes<br/>file-by-file, line-by-line
+**Commits** documenta estos cambios<br/>archivo por archivo, línea por línea

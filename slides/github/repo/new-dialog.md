@@ -1,4 +1,4 @@
-[![new repository github page](img/png/github-new.png)](https://GitHub.com/new)
+[![new repository github page](img/png/github-new.png)](https://github.com/new)
 
 Note:
 - provide a name

@@ -1,3 +1,5 @@
 # Git & GitHub</h1>
 
-<small>by *Gwen Lofman*</small>
+<p>*Juan Pablo Yamamoto*</p>
+
+<small>(forked from the workshop by *Gwen Lofman*)</small>

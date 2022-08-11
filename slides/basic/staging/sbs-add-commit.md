@@ -1,9 +1,9 @@
-**Step-by-step**
+**Paso por paso**
 
-- create or change a file
-- `git status` - see changes
-- `git add [file]` - stage
-- `git commit` - write history
+- crea o modifica un archivo
+- `git status` - ver cambios
+- `git add [file]` - añadir cambios (_stage_)
+- `git commit -m "[description]"` - agrega al historial con un mensaje `[description]`
 
 Note:
 - Let's bring it all together and make a commit!

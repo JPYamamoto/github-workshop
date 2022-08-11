@@ -1,1 +1,1 @@
-Fix conflicts commit-by-commit
+Resolver conflictos commit por commit

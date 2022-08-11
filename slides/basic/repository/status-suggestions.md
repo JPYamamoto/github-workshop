@@ -1,4 +1,4 @@
-`git status` can suggest what to do next
+`git status` te puede sugerir qué hacer después
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

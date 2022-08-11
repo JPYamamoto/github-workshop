@@ -1,1 +1,1 @@
-We need to configure `git`
+Debemos configurar `git`

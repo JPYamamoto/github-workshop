@@ -1,1 +1,1 @@
-A `git` repository is a folder on your computer
+Un repositorio de `git` es un directorio en tu computadora

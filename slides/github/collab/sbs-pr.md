@@ -1,8 +1,8 @@
-**Step-by-step**
+**Paso por paso**
 
-1. create a commit in new branch
+1. crea un commit en una rama nueva
 1. `git push -u [remote] [branch]`
-1. click pull requests on GH repo
-1. new pull request
-1. `git co [base]`
+1. da clic en _pull requests_ en el repositorio de GH
+1. crea el nuevo _pull request_
+1. `git checkout [base]`
 1. `git pull`

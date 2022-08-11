@@ -1,4 +1,4 @@
-`git merge [target]` merges `[target]`<br/>into the **current** branch
+`git merge [target]` fusiona `[target]`<br/>en la rama **actual**
 
 Note:
 We tell `git` which branch we want to merge

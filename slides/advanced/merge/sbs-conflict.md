@@ -1,7 +1,7 @@
-**Step-by-step**
+**Paso por paso**
 
-1. make a commit in a new `[branch]`
-2. commit changing **same** line in `[base]`
+1. crea un commit en una nueva rama `[branch]`
+2. crea un commit modificando **la misma** línea en la rama `[base]`
 3. `git merge [branch]`
-4. Fix the conflict in `[file]`
+4. Resuelve el conflicto en el archivo `[file]`
 5. `git add [file] && git commit`

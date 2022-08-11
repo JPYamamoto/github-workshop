@@ -1,7 +1,7 @@
-`git rebase [remote]/[branch]` incorporate<br/>changes
-that you don't have
+`git rebase [remote]/[branch]` incorpora<br/>los cambios
+que no tienes
 
-<small>**don't** miss the `/`</small>
+<small>**no** olvides la `/`</small>
 
 Note:
 - why would you **not** use a merge to do this?

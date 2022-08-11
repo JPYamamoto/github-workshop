@@ -1,4 +1,4 @@
-`git pull [remote] [branch]` get changes<br/>from remote onto your computer
+`git pull [remote] [branch]` jala los cambios<br/>desde un repo remoto a tu computadora
 
 Note:
 - the opposite of push

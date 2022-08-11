@@ -1,1 +1,1 @@
-Rewind changes and **re-apply** one-by-one
+Rebobina los cambios y los **re-aplica** uno por uno

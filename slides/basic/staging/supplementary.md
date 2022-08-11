@@ -1,1 +1,1 @@
-`git` has other commands to make the process easier
+`git` tiene otros comandos para facilitar varios procesos

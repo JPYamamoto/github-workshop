@@ -1,4 +1,4 @@
-The `[path]` can be:
+El `[path]` puede ser:
 
-- a repository on your computer
-- a link to a remote repository
+- un repositorio en tu computadora
+- el enlace a un repositorio remoto

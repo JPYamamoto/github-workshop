@@ -1,8 +1,8 @@
-`[file]` can be:
+`[file]` puede ser:
 
-1. a file
-2. a list of files
-3. a folder
+1. un archivo
+2. una lista de archivos
+3. un directorio
 
 Note:
 1. a file inside your repository

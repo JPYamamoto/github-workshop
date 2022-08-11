@@ -1,1 +1,1 @@
-Don't mess with the `.git` folder,<br/>it stores **all** of your changes
+No alteres el directorio `.git`,<br/>este contiene **todos** tus cambios

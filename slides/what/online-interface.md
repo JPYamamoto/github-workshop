@@ -1,1 +1,1 @@
-**GitHub** is an online interface for `git`
+**GitHub** es una plataforma para colaboración basada en `git`

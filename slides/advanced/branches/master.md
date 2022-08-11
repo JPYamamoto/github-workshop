@@ -1,4 +1,4 @@
-The default branch is **master**
+La rama por defecto es **master**
 
 Note:
 - the **true** version of your software

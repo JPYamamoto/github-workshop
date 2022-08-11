@@ -1,4 +1,4 @@
-A revert makes a **new** commit,<br/>reversing an **old** one
+Al hacer `git revert` creamos un **nuevo** commit,<br/>deshaciendo los cambios de un commit **anterior**
 
 Note:
 - every line added is removed

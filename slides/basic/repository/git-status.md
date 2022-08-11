@@ -1,4 +1,4 @@
-`git status` tells you about your repository
+`git status` brinda datos sobre el repositorio
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>
