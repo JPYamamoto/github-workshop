@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:glfmn/gh-slides.git"
+    "url": "git@github.com:JPYamamoto/github-workshop.git"
   },
   "scripts": {
     "test": "grunt test",
