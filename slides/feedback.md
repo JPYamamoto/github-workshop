@@ -1,3 +1,3 @@
 **[Feedback]?**
 
-[Feedback]: https://github.com/glfmn/github-workshop/issues/3
+[Feedback]: https://github.com/JPYamamoto/github-workshop/issues/1

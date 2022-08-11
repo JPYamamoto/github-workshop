@@ -1,1 +1,1 @@
-# Getting `git`
+# Instalando `git`

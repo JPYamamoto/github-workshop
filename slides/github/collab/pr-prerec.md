@@ -1,7 +1,7 @@
-To make a pull request:
+Para abrir un _pull request_:
 
-- base branch on remote
-- compare branch on remote
+- rama base en un repositorio remoto
+- rama a comparar en el repositorio remoto
 
 Note:
 - base branch = where we want our changes to go

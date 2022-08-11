@@ -1,12 +1,12 @@
-**Step-by-step**
+**Paso por paso**
 
-1. navigate to [GitHub.com/**new**][new]
-2. provide a name and description
-3. click create
+1. navega a [github.com/**new**][new]
+2. ingresa un nombre y descripción
+3. presiona "crear"
 
-<small>**do not** click "initialize with README"</small>
+<small>**no** selecciones "inicializar con README"</small>
 
-[new]: https://GitHub.com/new
+[new]: https://github.com/new
 
 Note:
 Half screen slides, half-screen GitHub

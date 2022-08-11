@@ -1,7 +1,7 @@
-**Linux** (Ubuntu/Debian)
+**Linux** (Fedora)
 
 ```
-sudo apt-get install git
+sudo dnf -y install git
 ```
 
 <figure class="toggle-figure">
@@ -10,5 +10,5 @@ sudo apt-get install git
 </figure>
 
 Note:
-- Linux typically comes with `git` installed
-- `git` was created specifically to manage the Linux project
+- Linux generalmente tiene `git` preinstalado
+- `git` fue creado específicamente para administrar el proyecto Linux

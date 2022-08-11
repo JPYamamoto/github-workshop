@@ -1,1 +1,1 @@
-Good commits are only as good<br/>as your **branches**<span class="fragment">!!!</span>
+Los buenos commits son solo tan buenos<br/>como lo son tus **ramas**<span class="fragment">!!!</span>

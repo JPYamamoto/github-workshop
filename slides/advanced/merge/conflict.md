@@ -1,1 +1,1 @@
-Sometimes we have a merge conflict
+En ocasiones se presentan conflictos de fusión

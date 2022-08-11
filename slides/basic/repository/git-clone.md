@@ -1,4 +1,4 @@
-`git clone [path]` copies a repository
+`git clone [path]` copia un repositorio
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

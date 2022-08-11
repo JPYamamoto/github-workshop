@@ -1,8 +1,8 @@
-**GitHub** issues are places to:
+Los _issues_ de **GitHub** es el lugar para:
 
-- report a bug
-- discuss a project
-- ask questions
+- reportar un problema
+- discutir un proyecto
+- realizar preguntas
 
 Note:
 - get the attention of the maintainer

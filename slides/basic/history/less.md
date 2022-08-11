@@ -1,1 +1,1 @@
-Sometimes we need **less** information
+A veces queremos **menos** información

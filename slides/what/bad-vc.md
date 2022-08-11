@@ -1,1 +1,1 @@
-`git` avoids the **problems** of bad version control
+`git` evita los **problemas** de un mal control de versiones

@@ -1,4 +1,4 @@
-`man git` gives the extensive manual
+`man git` muestra un manual extenso
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

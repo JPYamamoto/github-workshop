@@ -1,9 +1,7 @@
-**Step-by-step**
+**Paso por paso**
 
-1. `cd [parent]` into _parent_ folder
+1. `cd [parent]` hacia el directorio _parent_
 2. `git clone [path]`
-
-<small>make your desktop the parent</small>
 
 Note:
 Let's clone the repository we just made as an exercise

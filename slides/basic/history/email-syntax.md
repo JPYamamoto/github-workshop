@@ -1,13 +1,16 @@
-**Almost like an email**
+**Similar a un correo electrónico**
 
 ```txt
-Fix cost propagation bug
+Permite la descarga de arhivos Markdown
 
-Previously, cost was calculated but not passed to child
-nodes resulting in failure to create optimal paths.
+Anteriormente el sistema sólo permitía la descarga de 
+las tarjetas como archivos PDF. Debido a la necesidad 
+de los usuarios de compartir notas, era necesario 
+permitir la descarga de estas como archivos Markdown.
 
-Ensure child nodes receive calculated cost to prevent
-sub-optimality and failure to converge in results.
+Para lograrlo, construimos un archivo de texto en memoria,
+lo entregamos por el servidor HTTP, y desechamos el objeto
+una vez servida la solicitud.
 ```
 
 Note:

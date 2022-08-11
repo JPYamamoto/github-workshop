@@ -35,12 +35,12 @@ $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;
 $headingFontWeight: 600;
-$linkColor: #ff4081;
-$linkColorHover: #ff8db3;
+$linkColor: #ba2532;
+$linkColorHover: #eb3140;
 $selectionBackgroundColor: lighten( $linkColor, 25% );
-$sectionBackgroundColor:  #A5257F;
+$sectionBackgroundColor:  #6e269e;
 $sectionFontColor:  #ffffff;
-$subsectionBackgroundColor: #84A8CA;
+$subsectionBackgroundColor: #255e9c;
 
 $heading1Size: 2.5em;
 $heading2Size: 1.6em;
@@ -113,4 +113,5 @@ section .references {
     margin: 15px 0px;
     border: 0;
     box-shadow: none;
+    max-height: 60vh;
 }

@@ -1,4 +1,4 @@
-`git add -p [file]` stages parts of a file
+`git add -p [file]` agrega partes de un archivo
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

@@ -1,6 +1,6 @@
-**A commit stores**
+**Un commit almacena**
 
-- a _descriptive_ comment
-- metadata
-- changed lines
-- commit id
+- un comentario _descriptivo_
+- meta-datos
+- líneas modificadas
+- id del commit

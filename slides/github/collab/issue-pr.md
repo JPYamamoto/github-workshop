@@ -1,1 +1,1 @@
-**GitHub** offers an issue tracker and pull requests
+**GitHub** mantiene registro de _issues_ y _pull requests_

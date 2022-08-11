@@ -1,8 +1,8 @@
-## Scope
+## Alcance
 
-- the repository
+- el repositorio
 - staging & committing
-- your history
+- historial
 
 Note:
 we will learn

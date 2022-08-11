@@ -1,5 +1,5 @@
-`git` is **good** version control
+`git` es control de versiones hecho **correctamente**
 
-- undo changes
-- searchable history
-- simplify collaboration
+- deshacer cambios
+- navegar la historia
+- facilitar la colaboración

@@ -1,1 +1,1 @@
-`git reset --hard HEAD` cancels a merge with conflicts
+`git reset --hard HEAD` cancela una fusión cuando existen conflictos

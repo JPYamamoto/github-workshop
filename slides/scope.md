@@ -1,6 +1,6 @@
-## Scope
+## Alcance
 
-- Getting `git`
-- Basic `git`
-- Advanced `git`
-- Using **GitHub**
+- Instalar `git`
+- Comandos básicos de `git`
+- Comandos avanzados de `git`
+- Colaborando en **GitHub**

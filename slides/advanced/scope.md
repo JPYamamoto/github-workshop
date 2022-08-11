@@ -1,5 +1,5 @@
-## Scope
+## Alcance
 
-- branches
+- ramas (_branches_)
 - merge
 - rebase

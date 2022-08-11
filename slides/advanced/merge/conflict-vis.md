@@ -1,4 +1,4 @@
-Both branches changed the **same** lines
+Ambas ramas cambiaron **las mismas** líneas
 
 ```md
 # README: This is a practice `git` repository
@@ -11,7 +11,7 @@ I added this change in conflict, this is a conflict!
 
 ```
 
-<small>`git` helps visualize conflicts</small>
+<small>`git` nos ayuda a visualizar conflictos</small>
 
 Note:
 `git` **does not** presume which changes are right

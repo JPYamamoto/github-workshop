@@ -1,4 +1,4 @@
-`git checkout [ref]` travels through history
+`git checkout [ref]` sirve para moverse a través del historial
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

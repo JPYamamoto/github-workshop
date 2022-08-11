@@ -1,8 +1,8 @@
-**Mac OSX** with homebrew
+**Mac OSX** con homebrew
 
 ```
 brew install git
 ```
 
 Note:
-- homebrew is a really convinient way to install packages
+- homebrew es una forma muy conveniente de instalar paquetes

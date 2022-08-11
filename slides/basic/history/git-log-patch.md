@@ -1,4 +1,4 @@
-`git log --patch` adds lines changed
+`git log --patch` agrega las líneas modificadas
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

@@ -1,3 +1,5 @@
+sass = require 'node-sass'
+
 # Generated on 2018-02-24 using generator-reveal 1.0.0
 module.exports = (grunt) ->
 
@@ -48,6 +50,9 @@ module.exports = (grunt) ->
             theme:
                 files:
                     'css/theme.css': 'css/source/theme.scss'
+
+            options:
+                implementation: sass,
 
         connect:
 
@@ -162,6 +167,5 @@ module.exports = (grunt) ->
 
     # Define default task.
     grunt.registerTask 'default', [
-        'test'
         'serve'
     ]

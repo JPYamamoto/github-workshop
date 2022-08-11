@@ -1,5 +1,5 @@
-Seperate **unrelated** changes
+Separan cambios **sin relación** entre ellos
 
-- one feature, one branch
-- one bug fix, one branch
-- one release, one branch
+- una mejora, una rama
+- un arreglo de errores, una rama
+- una nueva versión, una rama

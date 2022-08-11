@@ -1,5 +1,5 @@
-## Scope
+## Alcance
 
-- make a repository
-- remotes
-- collaborating
+- crear un repositorio
+- tener repositorios remotos
+- colaborar

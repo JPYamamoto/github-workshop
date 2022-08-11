@@ -1,7 +1,7 @@
-**Step-by-step**
+**Paso por paso**
 - `git branch [name]`
 - `git checkout [name]`
-- make a commit
+- crea un commit
 
 Note:
 - make a new branch from the current commit

@@ -1,1 +1,1 @@
-You will often see things like `[something]` in this talk; this is a placeholder for some value that you have to define or provide.
+A lo largo de las diapositivas vas a encontrar etiquetas de tipo `[something]`; este es un indicador de que debes insertar tu propio valor.

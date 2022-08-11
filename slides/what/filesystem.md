@@ -1,5 +1,5 @@
-**Navigating the file system**
+**Navegar el sistema de archivos**
 
-- `cd` - change directory
-- `ls` - list files & directories
-- `mkdir` - make directory
+- `cd` - cambiar de directorio
+- `ls` - listar archivos y directorios
+- `mkdir` - crear directorio (make directory)

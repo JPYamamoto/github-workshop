@@ -1,4 +1,4 @@
-`git push -u [remote] [branch]`<br/>tell git where to push
+`git push -u [remote] [branch]`<br/>le dice a `git` a qué repositorio remoto mandar los cambios
 
 Note:
 - push your changes to

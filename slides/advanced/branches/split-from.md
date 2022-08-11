@@ -1,4 +1,4 @@
-The branch splits from the **current** commit<br>in the **current** branch
+La ramificación sale del commit **actual**<br> en la rama **actual**
 
 Note:
 - the current commit is **usually** the latest

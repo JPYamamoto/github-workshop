@@ -1,4 +1,4 @@
-A merge can either:
+Un *merge* puede:
 
-- make a **new** commit
+- crear un **nuevo** commit
 - fast-forward

@@ -1,4 +1,4 @@
-`git clone [url]` clones from another computer
+`git clone [url]` clona desde otra computadora
 
 Note:
 - it works exactly the same as with a folder

@@ -1,8 +1,8 @@
-A **GitHub** repository is a `git` repo on a server
+Un repositorio de **GitHub** es un repositorio de `git` como lo conocemos, pero en un servidor
 
-- interact through the site itself
-- use commandline `git`
-- focus on using the site for now
+- interactuar a través del sitio web
+- usar `git` en línea de comandos
+- enfocarnos en usar el sitio por ahora
 
 Note:
 - just a git repo on another computer

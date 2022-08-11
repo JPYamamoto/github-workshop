@@ -1,8 +1,8 @@
-**Step-by-step**
+**Paso por paso**
 
-1. `mkdir [folder]` - make a new folder
-2. `cd [folder]` - enter the folder
-3. `git init` - make the folder a repo
+1. `mkdir [folder]` - crea un nuevo directorio
+2. `cd [folder]` - ingresa al directorio
+3. `git init` - convierte el directorio a repositorio
 
 Note:
 1. make a new folder which will be our git repository

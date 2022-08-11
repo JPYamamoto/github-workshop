@@ -1,3 +1,3 @@
-The `.git` folder holds `git`'s guts
+El directorio `.git` contiene las entrañas de `git`
 
-See it with `ls -A`
+Visualizalo con `ls -A`

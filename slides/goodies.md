@@ -1,3 +1,3 @@
-**This is a basement slide.**
+**Esta es una diapositiva secundaria.**
 
-You can find all kinds of goodies in the basement slides!
+¡Puedes encontrar todo tipo de datos curiosos en las diapositivas secundarias!

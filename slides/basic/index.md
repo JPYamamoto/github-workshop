@@ -1,15 +1,15 @@
-# Basic `git`
+# Comandos básicos de `git`
 
 Note:
-Before we _really_ begin I'd like to point out that:
+Antes de _realmente_ comenzar, tenemos que dejar en claro:
 
-- it's **really** hard to understand these concepts the first time around
-- they require hands-on experience to _really_ sink in
-- the best way to learn is just through experience
+- puede ser **muy difícil** entender estos conceptos la primera vez
+- se requiere de experiencia práctica para _realmente_ comprenderlo
+- la mejor manera de aprender es a través de la experiencia
 
-**I _will_ do the best I can**
+**Haremos nuestro mejor esfuerzo**
 
-- it will not be perfect
-- don't worry too much if you walk away a bit confused
-- ask _lots_ of questions
-- check back against documentation often
+- no será perfecto
+- no te preocupes si al concluir no comprendes todo
+- realiza _muchas_ preguntas
+- procura revisar la documentación

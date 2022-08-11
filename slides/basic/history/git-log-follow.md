@@ -1,4 +1,4 @@
-`git log --follow [file]`<br/>shows `[file]`'s history
+`git log --follow [file]`<br/>muestra el historial del archivo `[file]`
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

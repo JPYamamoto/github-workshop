@@ -1,4 +1,4 @@
-When you create a branch,<br/>you **do not** move to it.
+Cuando creas una rama,<br/>**no** te mueves a ella.
 
 Note:
 Remember that creating a branch **does not** make it the current branch

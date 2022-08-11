@@ -1,4 +1,4 @@
-`git reset [file]` unstages `[file]`
+`git reset [file]` deja de considerar (_unstage_) los cambios en el archivo `[file]`
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

@@ -1,4 +1,4 @@
-`git log` shows history
+`git log` muestra el historial
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

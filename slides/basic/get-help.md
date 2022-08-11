@@ -1,6 +1,6 @@
-**Getting Help**
+**Obteniendo ayuda**
 
-`git help` or documentation at <a target="external" href="https://git-scm.com/doc">git-scm.com/doc</a>
+`git help` o la documentación en <a target="external" href="https://git-scm.com/doc">git-scm.com/doc</a>
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

@@ -1,1 +1,1 @@
-`git` is only as good as your **commits**<span class="fragment">!!!</span>
+`git` es tan bueno como tu habilidad al usar **commits**<span class="fragment">!!!</span>

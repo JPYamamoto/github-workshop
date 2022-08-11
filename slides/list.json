@@ -23,7 +23,7 @@
     {
         "attr": {
             "data-background-image": "img/bad-VC.png",
-            "data-background-size": "75vw"
+            "data-background-size": "95vh"
         }
     },
     "what/commented-code.md",
@@ -210,13 +210,13 @@
     {
         "attr": {
             "data-background-image": "img/png/pre-rebase.png",
-            "data-background-size": "100vw"
+            "data-background-size": "95vw"
         }
     },
     {
         "attr": {
             "data-background-image": "img/png/post-rebase.png",
-            "data-background-size": "100vw"
+            "data-background-size": "95vw"
         }
     },
     "advanced/rebase/update.md",

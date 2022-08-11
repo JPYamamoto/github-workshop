@@ -1,4 +1,4 @@
-`git add [file]` stages changes
+`git add [file]` agrega cambios (_staging_)
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

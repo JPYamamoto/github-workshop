@@ -1,4 +1,4 @@
-Code commented out with no explanation
+Código comentado sin explicar los motivos
 
 ```c++
 for(int i = 1;i < Ntr;i++){

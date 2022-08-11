@@ -1,1 +1,1 @@
-`git` associates your name and email with every change you make
+`git` asocia tu nombre y correo electrónico con cada modificación que realizas

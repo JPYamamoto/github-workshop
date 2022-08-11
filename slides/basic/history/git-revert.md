@@ -1,4 +1,4 @@
-`git revert [id]` undoes commit `[id]`
+`git revert [id]` deshace el commit `[id]`
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

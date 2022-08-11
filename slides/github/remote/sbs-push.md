@@ -1,10 +1,10 @@
-**Step-by-step**
+**Paso por paso**
 
 1. `git remote add origin [url]`
-1. `git fetch` - sync
+1. `git fetch` - sincroniza
 1. `git push -u origin [branch]`
 
-<small class="fragment">bare `git push` works now</small>
+<small class="fragment">el comando simple `git push` ya funciona</small>
 
 Note:
 - we will use origin as our remote name by convention

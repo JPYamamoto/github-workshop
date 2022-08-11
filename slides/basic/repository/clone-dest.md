@@ -1,1 +1,1 @@
-You can specify which folder with<br/>`git clone [path] [destination]`
+Puedes especificar el nombre del directorio con<br/>`git clone [path] [destination]`

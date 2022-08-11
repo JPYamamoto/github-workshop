@@ -1,7 +1,7 @@
-The log **doesn't** show
+El log **no** muestra:
 
-- which files changed
-- what lines changed
-- the history of one file
+- qué archivos cambiaron
+- qué líneas cambiaron
+- el historial de un archivo
 
-<p class="fragment">unless we **ask** it to</p>
+<p class="fragment">a menos que le **indiquemos** que lo muestre</p>

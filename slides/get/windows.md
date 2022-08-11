@@ -1,5 +1,5 @@
-[git-bash] on **Windows**
+[git-bash] en **Windows**
 
-Make sure to turn on `CRLF` normalization
+Asegúrate de activar la normalización `CRLF`
 
 [git-bash]: https://git-for-windows.github.io

@@ -1,4 +1,4 @@
-`git remote add [name] [url]` find a repoisitory on another computer
+`git remote add [name] [url]` agrega un repositorio en otra computadora
 
 Note:
 - the name is essentially like a shortcut to the url
