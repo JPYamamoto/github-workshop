@@ -23,7 +23,8 @@
   },
   "scripts": {
     "test": "grunt test",
-    "start": "grunt"
+    "start": "grunt",
+    "build": "grunt deploy"
   },
   "dependencies": {
     "coffeescript": "^2.7.0",
