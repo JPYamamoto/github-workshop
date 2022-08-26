@@ -4,6 +4,6 @@
 
 <small>GitHub Campus Expert 🚩</small>
 
-<small>@[JPYamamoto] en **GitHub**</small>
+<small>[@JPYamamoto] en **GitHub**</small>
 
-[glfmn]: https://GitHub.com/JPYamamoto
+[@JPYamamoto]: https://GitHub.com/JPYamamoto
