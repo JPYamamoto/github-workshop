@@ -1,7 +1,7 @@
-**Linux** (Fedora)
+**Linux** (Arch)
 
 ```
-sudo dnf -y install git
+sudo pacman -S git
 ```
 
 Note:

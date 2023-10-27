@@ -16,8 +16,8 @@ section .references {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #6ed4eb;
-  background-color: #6ed4eb; }
+  background: #ffffff;
+  background-color: #ffffff; }
 
 .reveal {
   font-family: "Roboto", Helvetica, sans-serif;
