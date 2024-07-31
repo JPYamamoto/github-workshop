@@ -1,4 +1,4 @@
-`git log --stat` agrega los archivos modificados
+`git log --stat` incluye los archivos modificados
 
 <figure class="toggle-figure">
     <span class="toggle-figure__button"></span>

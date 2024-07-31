@@ -4,51 +4,56 @@
  * Copyright (C) 2015 Hakim El Hattab, http://hakim.se
  */
 
- // This file has been copied over from
- // ../../bower_components/reveal.js/css/theme/source/black.scss
+// This file has been copied over from
+// ../../bower_components/reveal.js/css/theme/source/black.scss
 
- // See ../../bower_components/reveal.js/css/theme/README.md
- // for further explanations on how to create a custom reveal.js theme.
+// See ../../bower_components/reveal.js/css/theme/README.md
+// for further explanations on how to create a custom reveal.js theme.
 
 // Default mixins and settings -----------------
 @import "../../bower_components/reveal.js/css/theme/template/mixins";
 @import "../../bower_components/reveal.js/css/theme/template/settings";
 // ---------------------------------------------
 
-
 // Include theme-specific fonts
 @import url(../bower_components/reveal.js/lib/font/source-sans-pro/source-sans-pro.css);
-@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i');
+@import url("https://fonts.googleapis.com/css?family=Source+Code+Pro");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i");
 
 // Override theme settings (see ../../bower_components/reveal.js/css/theme/template/settings.scss)
-$backgroundColor: #6ed4eb;
+$backgroundColor: #fff;
 
 $mainColor: #333333;
 $headingColor: #333333;
 
 $mainFontSize: 38px;
-$mainFont: 'Roboto', Helvetica, sans-serif;
-$monospaceFont: 'Source Code Pro';
-$headingFont: 'Source Sans Pro', Helvetica, sans-serif;
+$mainFont: "Roboto", Helvetica, sans-serif;
+$monospaceFont: "Source Code Pro";
+$headingFont: "Source Sans Pro", Helvetica, sans-serif;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;
 $headingFontWeight: 600;
 $linkColor: #ba2532;
 $linkColorHover: #eb3140;
-$selectionBackgroundColor: lighten( $linkColor, 25% );
-$sectionBackgroundColor:  #6e269e;
-$sectionFontColor:  #ffffff;
-$subsectionBackgroundColor: #255e9c;
+$selectionBackgroundColor: lighten($linkColor, 25%);
+$sectionBackgroundColor: #060042;
+$sectionFontColor: #ffffff;
+$subsectionBackgroundColor: #234987;
 
 $heading1Size: 2.5em;
 $heading2Size: 1.6em;
 $heading3Size: 1.3em;
-$heading4Size: 1.0em;
+$heading4Size: 1em;
 
 section.has-light-background {
-    &, h1, h2, h3, h4, h5, h6 {
+    &,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
         color: #222;
     }
 }
@@ -66,7 +71,7 @@ section .references {
 .reveal pre {
     font-family: $monospaceFont, monospace;
     text-transform: none;
-    background: rgba(0,0,0,0.0392);
+    background: rgba(0, 0, 0, 0.0392);
     border-radius: 0.08em;
     padding: 0.05em 0.1em;
 }
@@ -81,12 +86,17 @@ section .references {
     backround-color: $sectionBackgroundColor;
 
     color: $sectionFontColor !important;
-
 }
 
 .section-title body main section,
 .subsection-title body main section {
-    &, h1, h2, h3, h4, h5, h6 {
+    &,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
         color: $sectionFontColor !important;
     }
 }
@@ -95,17 +105,16 @@ section .references {
     background: $subsectionBackgroundColor;
     backround-color: $subsectionBackgroundColor;
     color: $sectionFontColor !important;
-
 }
 
 .slides,
-.reveal .slides>section[data-background-interactive],
-.reveal .slides>section>section[data-background-interactive] {
+.reveal .slides > section[data-background-interactive],
+.reveal .slides > section > section[data-background-interactive] {
     pointer-events: none;
 }
 
-.reveal .slides>section,
-.reveal .slides>section>section {
+.reveal .slides > section,
+.reveal .slides > section > section {
     pointer-events: all;
 }
 

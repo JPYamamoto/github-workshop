@@ -1,7 +1,7 @@
 **Paso por paso**
 
 1. `cd [parent]` hacia el directorio _parent_
-2. `git clone [path]`
+2. `git clone [path] [destination]`
 
 Note:
 Let's clone the repository we just made as an exercise

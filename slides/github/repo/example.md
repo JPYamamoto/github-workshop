@@ -1,5 +1,5 @@
-[Repositorio ejemplo][glfmn/github-workshop]:
+[Repositorio ejemplo][jpyamamoto/github-workshop]:
 
-[![github workshop repository as example](img/png/github--repo-example.png)][glfmn/github-workshop]
+[![github workshop repository as example](img/png/github--repo-example.png)][jpyamamoto/github-workshop]
 
-[glfmn/github-workshop]: https://github.com/JPYamamoto/github-workshop
+[jpyamamoto/github-workshop]: https://github.com/jpyamamoto/github-workshop
