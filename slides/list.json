@@ -50,8 +50,6 @@
     [
         "get/installation.html",
         "get/linux.md",
-        "get/debian.md",
-        "get/arch.md",
         "get/mac-osx.md",
         "get/windows.md"
     ],
@@ -241,14 +239,6 @@
     "github/sign-up.md",
     "github/platform.md",
     "github/scope.md",
-    "github/install/installation.html",
-    "github/install/linux.md",
-    "github/install/debian.md",
-    "github/install/arch.md",
-    "github/install/mac-osx.md",
-    "github/install/windows.md",
-    "github/install/start.md",
-    "github/install/continue.md",
     {
         "filename": "github/repo/index.md",
         "attr": {

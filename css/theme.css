@@ -6,7 +6,13 @@
 @import url(../bower_components/reveal.js/lib/font/source-sans-pro/source-sans-pro.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Code+Pro");
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i");
-section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
+section.has-light-background,
+section.has-light-background h1,
+section.has-light-background h2,
+section.has-light-background h3,
+section.has-light-background h4,
+section.has-light-background h5,
+section.has-light-background h6 {
   color: #222; }
 
 section .references {
@@ -16,8 +22,8 @@ section .references {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #ffffff;
-  background-color: #ffffff; }
+  background: #fff;
+  background-color: #fff; }
 
 .reveal {
   font-family: "Roboto", Helvetica, sans-serif;
@@ -281,11 +287,17 @@ body {
   margin: 0.15em 0em; }
 
 .section-title body {
-  background: #6e269e;
-  backround-color: #6e269e;
+  background: #060042;
+  backround-color: #060042;
   color: #ffffff !important; }
 
-.section-title body main section, .section-title body main section h1, .section-title body main section h2, .section-title body main section h3, .section-title body main section h4, .section-title body main section h5, .section-title body main section h6,
+.section-title body main section,
+.section-title body main section h1,
+.section-title body main section h2,
+.section-title body main section h3,
+.section-title body main section h4,
+.section-title body main section h5,
+.section-title body main section h6,
 .subsection-title body main section,
 .subsection-title body main section h1,
 .subsection-title body main section h2,
@@ -296,8 +308,8 @@ body {
   color: #ffffff !important; }
 
 .subsection-title body {
-  background: #255e9c;
-  backround-color: #255e9c;
+  background: #234987;
+  backround-color: #234987;
   color: #ffffff !important; }
 
 .slides,
